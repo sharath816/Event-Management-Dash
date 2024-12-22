@@ -16,4 +16,4 @@
     Run npm start   
 
 # "RESULT" #
-![Video](https://github.com/USERNAME/REPOSITORY/raw/main/path/to/video.mp4)
+![Video]([https://github.com/USERNAME/REPOSITORY/raw/main/path/to/video.mp4](https://github.com/sharath816/Event-Management-Dash/blob/653b090f10290fc43fdc1f08de4c31adf7606747/Images/Screen%20Recording%202024-12-22%20223215.mp4))
