@@ -1,0 +1,37 @@
+.containere {
+  margin-left: 25px;
+  text-align: center;
+  border: 2px solid rgb(79, 137, 232);
+  border-radius: 10px;
+  padding: 20px;
+  background-color: white;
+  width: 500px;
+}
+
+input.form-control {
+  text-align: center;
+  border: 2px solid rgb(79, 137, 232);
+}
+
+input.form-control::placeholder {
+  text-align: center;
+}
+
+input.form-control:-ms-input-placeholder {
+  text-align: center;
+}
+
+input.form-control::-ms-input-placeholder {
+  text-align: center;
+}
+
+.btn {
+  border-radius: 5px;
+  color: black;
+  background-color: rgb(111, 164, 250);
+  border: 1.5px solid rgb(3, 3, 3);
+}
+
+.btn:hover {
+  background-color: rgb(143, 186, 246);
+}

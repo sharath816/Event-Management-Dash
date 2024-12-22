@@ -1,0 +1,26 @@
+.bottom-footer {
+    position: fixed;
+    left: 0;        
+    bottom: 0;     
+    width: 100%;    
+    color: black;  
+    text-align: center;
+    padding: 10px 0;
+    font-size: 15px;
+}
+
+.social-icons {
+    display: flex; 
+    justify-content: center;
+    gap: 35px; 
+}
+
+.social-icons .icon {
+    font-size: 35px; 
+    color: #3f3f3f;
+}
+
+.social-icons .icon:hover {
+    color: #1e25d6; 
+    transform: scale(1.25);
+}
