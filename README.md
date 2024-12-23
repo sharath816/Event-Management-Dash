@@ -4,8 +4,8 @@
    
   *Create according to below* :
     
-![Alt text](https://github.com/sharath816/Event-Management-Dash/blob/767348862de4e79269ffc339a527e1c1037a6eaf/Images/Screenshot%202024-12-23%20230446.png)
-![Alt text](https://github.com/sharath816/Event-Management-Dash/blob/767348862de4e79269ffc339a527e1c1037a6eaf/Images/Screenshot%202024-12-23%20230508.png)
+![Alt text](https://github.com/sharath816/Event-Management-Dash/blob/37374c052643cfa1f1b04fc5f89f6475960c5a19/Images/Screenshot%202024-12-23%20231112.png)
+![Alt text](https://github.com/sharath816/Event-Management-Dash/blob/37374c052643cfa1f1b04fc5f89f6475960c5a19/Images/Screenshot%202024-12-23%20231210.png)
 
 # *RESULT*
   # *Can refer the video here by downloading it.*
