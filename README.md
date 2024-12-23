@@ -2,7 +2,7 @@
 # *Steps To Execute the Code*
  
    
-  *Create according to below* :
+  *Work according to below* :
     
 ![Alt text](https://github.com/sharath816/Event-Management-Dash/blob/37374c052643cfa1f1b04fc5f89f6475960c5a19/Images/Screenshot%202024-12-23%20231112.png)
 ![Alt text](https://github.com/sharath816/Event-Management-Dash/blob/37374c052643cfa1f1b04fc5f89f6475960c5a19/Images/Screenshot%202024-12-23%20231210.png)
