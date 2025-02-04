@@ -23,7 +23,7 @@
 # *After Adding Events*
 ![Alt text](https://github.com/sharath816/Event-Management-Dash/blob/eb993a3b53fc1113df187e24c4b406ddb4a40709/Images/Screenshot%202024-12-22%20232542.png)
 
-# *Task Trackig*
+# *Task Tracking*
 ![Alt text](https://github.com/sharath816/Event-Management-Dash/blob/eb993a3b53fc1113df187e24c4b406ddb4a40709/Images/Screenshot%202024-12-22%20232554.png)
 
 # *Attendee Adding*
